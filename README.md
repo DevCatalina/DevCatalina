@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevCatalina
 - 👀 I’m interested in Game development, data science, AI and Machine Learning 
 - 🌱 I’m currently learning Computer Science, might transfer to Art or Media next year
-- 💞️ I’m looking to collaborate on Game Dev, C# and pyhton
+- 💞️ I’m looking to collaborate on Game Dev, C# and python
 - 📫 How to reach me through nowhere for now
 
 <!---
