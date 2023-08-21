@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game development, data science, AI and Machine Learning 
 - 🌱 I’m currently learning Computer Science but taking a year in media 
 - 💞️ I’m looking to collaborate on Game Dev, C# and python
-- 📫 Reach me through tumblr (https://lesbineering.tumblr.com/) with the contact me tab. Put any link or way for me to contact you back without personal infomation and a link to your GitHub account if you have one, no emails please.
+- 📫 Reach me through tumblr (https://lesbineering.tumblr.com/) and messege me, ill try to respond.
 
 <!---
 DevCatalina/DevCatalina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
